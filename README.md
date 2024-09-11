@@ -1,4 +1,5 @@
-## Hi there 👋
+<div align="center">
+    <h3>Hello and Welcome<a href="https://media.tenor.com/S61VCO73mOAAAAAj/linux-tux.gif" width="100" height="100">linux_rotate</a></h3>
 
 <!--
 **grigri307/grigri307** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
