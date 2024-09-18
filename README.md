@@ -1,3 +1,4 @@
+<script src="https://github.com/grigri307/grigri307/edit/main/index.js"></script>
 <div align="center">
     <h3>Hello and Welcome</h3>
     <img src="https://media.tenor.com/S61VCO73mOAAAAAj/linux-tux.gif" width="50" height="50">
