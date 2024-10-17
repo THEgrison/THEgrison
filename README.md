@@ -35,6 +35,9 @@
 ![image](https://img.shields.io/badge/Css-blue)
 ![image](https://img.shields.io/badge/JavaScript-green)
 
+</div>
+
+<div align="center"> 
     <h>⚙️Im working on :</h>
     <button link="https://github.com/grigri307/site-projet">https://github.com/grigri307/site-projet</button>
 
