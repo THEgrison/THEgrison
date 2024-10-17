@@ -1,3 +1,10 @@
+<div align="center">
+    <img src="https://media.tenor.com/S61VCO73mOAAAAAj/linux-tux.gif" width="50" height="50"> 
+    <h3>Welcome to my GitHub! I'm passionate about cybersecurity, ethical hacking, pentesting...</h3> 
+    <h3>Im learning : Html / css / js / python ...</h3>
+    <hr size="3">
+    <h3>i use</h3>
+
 ![image](https://img.shields.io/badge/Debian-red)
 ![image](https://img.shields.io/badge/Docker-lightBlue)
 ![image](https://img.shields.io/badge/Windows-blue)
@@ -24,12 +31,4 @@
 ![image](https://img.shields.io/badge/Css-blue)
 ![image](https://img.shields.io/badge/JavaScript-green)
 
-
-<div align="center">
-    <img src="https://media.tenor.com/S61VCO73mOAAAAAj/linux-tux.gif" width="50" height="50"> 
-    <h3>Welcome to my GitHub! I'm passionate about cybersecurity, ethical hacking, pentesting...</h3> 
-    <h3>Im learning : Html / css / js / python ...</h3>
-    <hr size="3">
-    <h3>i use</h3>
 </div>
-
