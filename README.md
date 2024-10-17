@@ -3,6 +3,19 @@
 ![image](https://img.shields.io/badge/KALI%20LINUX-darkblue)
 ![image](https://img.shields.io/badge/PARROT%20OS-darkblue)
 ![image](https://img.shields.io/badge/MySql-blue)
+![image](https://img.shields.io/badge/BeEF-red)
+![image](https://img.shields.io/badge/Open%20Vpn-orange)
+![image](https://img.shields.io/badge/Root%20Me-white)
+![image](https://img.shields.io/badge/Wikipedia-white)
+![image](https://img.shields.io/badge/Npm-red)
+![image](https://img.shields.io/badge/Azure-blue)
+![image](https://img.shields.io/badge/AWS-yellow)
+![image](https://img.shields.io/badge/Google%20Cloud-white)
+![image](https://img.shields.io/badge/Oracle-red)
+![image](https://img.shields.io/badge/Python-darkgreen)
+![image](https://img.shields.io/badge/Html-red)
+![image](https://img.shields.io/badge/JavaScript-green)
+
 
 <div align="center">
     <img src="https://media.tenor.com/S61VCO73mOAAAAAj/linux-tux.gif" width="50" height="50"> 
