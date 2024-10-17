@@ -3,7 +3,7 @@
     <h3>Welcome to my GitHub! I'm passionate about cybersecurity, ethical hacking, pentesting...</h3> 
     <h3>Im learning : Html / css / js / python ...</h3>
     <hr size="3">
-    <h3>i use</h3>
+    <h2>i use</h2>
 
 ![image](https://img.shields.io/badge/Debian-red)
 ![image](https://img.shields.io/badge/Docker-lightBlue)
