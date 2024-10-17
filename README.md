@@ -40,11 +40,17 @@
 <div align="center"> 
     <h>⚙️Im working on :</h>
     <button link="https://github.com/grigri307/site-projet">https://github.com/grigri307/site-projet</button>
+    <p></p>
     <h>📈 GitHub Stats :</h>
 </div>
 
 ![grigri307's Stats](https://github-readme-stats.vercel.app/api?username=grigri307&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 ![grigri307's Streak](https://github-readme-streak-stats.herokuapp.com/?user=grigri307&theme=vue-dark&hide_border=true)
+
+<div class="center">
+    
 ![grigri307's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=grigri307&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+
+</div>
 
 
