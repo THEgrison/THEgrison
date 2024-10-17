@@ -9,6 +9,6 @@
 ![image](https://img.shields.io/badge/FIREFOX-orange)
 ![image](https://img.shields.io/badge/KALI%20LINUX-darkblue)
 ![image](https://img.shields.io/badge/PARROT%20OS-darkblue)
-![image](https://img.shields.io/badge/https://img.shields.io/badge/MySql-darkblue)
+![image](https://img.shields.io/badge/MySql-blue)
 
     
