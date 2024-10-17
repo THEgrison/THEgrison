@@ -23,7 +23,7 @@
 ![image](https://img.shields.io/badge/Visual%20Studio%20Code-blue)
 ![image](https://img.shields.io/badge/Visual%20Studio%20Codium-blue)
 ![image](https://img.shields.io/badge/Wikipedia-white)
-![image](https://img.shields.io/badge/Npm-red)
+![image](https://img.shields.io/badge/Nmap-red)
 ![image](https://img.shields.io/badge/Azure-blue)
 ![image](https://img.shields.io/badge/AWS-yellow)
 ![image](https://img.shields.io/badge/Google%20Cloud-white)
