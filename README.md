@@ -5,7 +5,6 @@
     <p>🌱 Learning: Python, Bash, Html... & Web Pentesting
     <p>👯 Collaborating: Nop not for the moment
     <p>📫 Reach Me At: 
-    <p>Im learning : Html / css / js / python ...</p>
     <hr size="3">
     <h>tools i use</h>
 
