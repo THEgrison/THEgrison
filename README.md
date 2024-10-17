@@ -40,5 +40,6 @@
 <div align="center"> 
     <h>⚙️Im working on :</h>
     <button link="https://github.com/grigri307/site-projet">https://github.com/grigri307/site-projet</button>
-
+    <h>📈 GitHub Stats :</h>
+    <img>https://github-readme-stats.vercel.app/api?username=grigri307&theme=vue-dark&show_icons=true&hide_border=true&count_private=true</img>
 </div>
