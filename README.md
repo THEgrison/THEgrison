@@ -2,7 +2,7 @@
     <img src="https://media.tenor.com/S61VCO73mOAAAAAj/linux-tux.gif" width="50" height="50"> 
     <h3>Welcome to my GitHub! I'm passionate about cybersecurity, ethical hacking, pentesting...</h3> 
     <p>🔭 Currently Working On: find people with discord (osint)
-    <p>🌱 Learning: Python, Bash, Html... & Web Pentesting
+    <p>🌱 Learning: Osint, Python, Bash, Html... & Web Pentesting
     <p>👯 Collaborating: Nop not for the moment
     <p>📫 Reach Me At: 
     <hr size="3">
