@@ -46,6 +46,5 @@
 </div>
 
 ![grigri307's Stats](https://github-readme-stats.vercel.app/api?username=grigri307&theme=dark&show_icons=true&hide_border=true&count_private=true)
-![grigri307's Streak](https://github-readme-streak-stats.herokuapp.com/?user=grigri307&theme=dark&hide_border=true)
 ![grigri307's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=grigri307&theme=dark&show_icons=true&hide_border=true&layout=compact)
 
