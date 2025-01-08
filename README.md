@@ -25,7 +25,7 @@
 
 
 <div align="center">
-    ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) `<h3>Welcome to my GitHub! I'm passionate about cybersecurity, ethical hacking, pentesting...</h3>`
+    ![#f03c15](Welcome to my GitHub! I'm passionate about cybersecurity, ethical hacking, pentesting...) `<h3></h3>`
     <p>🔭 Currently Working On: find people with discord (osint)
     <p>🌱 Learning: Osint, Python, Bash, Html... & Web Pentesting
     <p>👯 Collaborating: Nop not for the moment
