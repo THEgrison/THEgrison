@@ -23,9 +23,7 @@
                                                                                                 
 ```
 <div align="center">
-    <font color="red">
-    <h3>Welcome to my GitHub! I'm passionate about cybersecurity, ethical hacking, pentesting...</h3>
-    </font>
+    <h3 style="color:#FF0000">Welcome to my GitHub! I'm passionate about cybersecurity, ethical hacking, pentesting...</h3>
     <p>🔭 Currently Working On: find people with discord (osint)
     <p>🌱 Learning: Osint, Python, Bash, Html... & Web Pentesting
     <p>👯 Collaborating: Nop not for the moment
