@@ -1,3 +1,27 @@
+```
+                                  ___          ____
+                               ,-""   `.      < HONK >
+                             ,'  _   e )`-._ /  ----
+                            /  ,' `-._<.===-'
+                           /  /
+                          /  ;
+              _          /   ;
+ (`._    _.-"" ""--..__,'    |
+ <_  `-""                     \
+  <`-                          :
+   (__   <__.                  ;
+     `-.   '-.__.      _.'    /
+        \      `-.__,-'    _,'
+         `._    ,    /__,-'
+            ""._\__,'< <____
+                 | |  `----.`.                                                                  
+                 | |        \ `.                                                                
+                 ; |___      \-``                                                               
+                 \   --<                                                                        
+                  `.`.<                                                                         
+                    `-'                                                                         
+                                                                                                
+```
 <div align="center"> 
     <img src="https://media.tenor.com/S61VCO73mOAAAAAj/linux-tux.gif" width="50" height="50"> 
     <h3>Welcome to my GitHub! I'm passionate about cybersecurity, ethical hacking, pentesting...</h3> 
