@@ -24,8 +24,7 @@
 ```
 
 
-<div align="center">
-    ![color](#f03c15)
+<div align="center" color="red">
     <h3>Welcome to my GitHub! I'm passionate about cybersecurity, ethical hacking, pentesting...</h3>
     <p>🔭 Currently Working On: find people with discord (osint)
     <p>🌱 Learning: Osint, Python, Bash, Html... & Web Pentesting
