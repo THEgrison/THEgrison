@@ -29,10 +29,12 @@
     <p>🔭 Currently Working On: find people with discord (osint)
     <p>🌱 Learning: Osint, Python, Bash, Html... & Web Pentesting
     <p>👯 Collaborating: Nop not for the moment
-    <hr size="3">
     <h>tools i use</h>
     <p></p>
-
+</div>
+<hr size="3" style="border-radius: 30px;">
+<div align="center" color="red">
+  
 ![image](https://img.shields.io/badge/Debian-red)
 ![image](https://img.shields.io/badge/Docker-lightBlue)
 ![image](https://img.shields.io/badge/Windows-blue)
@@ -61,7 +63,7 @@
 
 </div>
 
-<hr size="3">
+<hr size="3" style="border-radius: 30px;">
 
 <div align="center"> 
     <h>⚙️Im working on :</h>
