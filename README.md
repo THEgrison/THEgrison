@@ -67,7 +67,7 @@
 
 <div align="center"> 
     <h>⚙️Im working on :</h>
-    <button link="https://github.com/grigri307/TCKernel">https://github.com/grigri307/TCKernel</button>
+    <button link="https://github.com/THEgrison/botdiscord">https://github.com/THEgrison/botdiscord</button>
     <p></p>
     <h>📈 GitHub Stats :</h>
 </div>
