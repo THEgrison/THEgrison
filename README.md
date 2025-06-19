@@ -29,13 +29,11 @@
     <p>🔭 Currently Working On: find people with discord (osint)
     <p>🌱 Learning: Osint, Python, Bash, Html... & Web Pentesting
     <p>👯 Collaborating: Nop not for the moment
-    <h>tools i use</h>
-    <p></p>
 </div>
-<hr size="3" style="border-radius: 30px;">
+
 <div align="center" color="red">
 
-## 🛠️
+## 🛠️Tools i use :
 
 ![image](https://img.shields.io/badge/Debian-red)
 ![image](https://img.shields.io/badge/Docker-lightBlue)
