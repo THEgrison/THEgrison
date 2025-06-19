@@ -67,6 +67,9 @@
 
 <div align="center"> 
     <button link="https://github.com/THEgrison/botdiscord">https://github.com/THEgrison/botdiscord</button>
-    <p></p>
-    <h>📈 GitHub Stats :</h>
 </div>
+
+## 📈 GitHub Stats :
+
+<img src="https://github-readme-stats.vercel.app/api?username=THEgrison&theme=dark&show_icons=true&hide_border=true&count_private=true" alt="THEgrison's GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=THEgrison&theme=dark&show_icons=true&hide_border=true&layout=compact" alt="THEgrison's GitHub Stats" />
