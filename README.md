@@ -34,7 +34,9 @@
 </div>
 <hr size="3" style="border-radius: 30px;">
 <div align="center" color="red">
-  
+
+## 🛠️
+
 ![image](https://img.shields.io/badge/Debian-red)
 ![image](https://img.shields.io/badge/Docker-lightBlue)
 ![image](https://img.shields.io/badge/Windows-blue)
@@ -63,10 +65,9 @@
 
 </div>
 
-<hr size="3" style="border-radius: 30px;">
+## ⚙️Im working on :
 
 <div align="center"> 
-    <h>⚙️Im working on :</h>
     <button link="https://github.com/THEgrison/botdiscord">https://github.com/THEgrison/botdiscord</button>
     <p></p>
     <h>📈 GitHub Stats :</h>
