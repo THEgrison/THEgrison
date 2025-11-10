@@ -31,45 +31,10 @@
     <p>👯 Collaborating: Nop not for the moment
 </div>
 
-## 🛠️Tools i use :
-
-<div align="center" color="red">
-
-![image](https://img.shields.io/badge/Debian-red)
-![image](https://img.shields.io/badge/Docker-lightBlue)
-![image](https://img.shields.io/badge/Windows-blue)
-![image](https://img.shields.io/badge/KALI%20LINUX-darkblue)
-![image](https://img.shields.io/badge/PARROT%20OS-darkblue)
-![image](https://img.shields.io/badge/TOR-purple)
-![image](https://img.shields.io/badge/FIREFOX-orange)
-![image](https://img.shields.io/badge/MySql-blue)
-![image](https://img.shields.io/badge/BeEF-red)
-![image](https://img.shields.io/badge/Open%20Vpn-orange)
-![image](https://img.shields.io/badge/Root%20Me-white)
-![image](https://img.shields.io/badge/Visual%20Studio%20Code-blue)
-![image](https://img.shields.io/badge/Visual%20Studio%20Codium-blue)
-![image](https://img.shields.io/badge/Wikipedia-white)
-![image](https://img.shields.io/badge/Nmap-red)
-![image](https://img.shields.io/badge/Azure-blue)
-![image](https://img.shields.io/badge/AWS-yellow)
-![image](https://img.shields.io/badge/Google%20Cloud-white)
-![image](https://img.shields.io/badge/Oracle-red)
-![image](https://img.shields.io/badge/Apache-red)
-![image](https://img.shields.io/badge/Git-red)
-![image](https://img.shields.io/badge/Python-darkgreen)
-![image](https://img.shields.io/badge/Html-red)
-![image](https://img.shields.io/badge/Css-blue)
-![image](https://img.shields.io/badge/JavaScript-green)
-
-</div>
-
-## ⚙️Im working on :
-
-<div align="center"> 
-    <button link="https://github.com/THEgrison/botdiscord">https://github.com/THEgrison/botdiscord</button>
 </div>
 
 ## 📈 GitHub Stats :
 
 <img src="https://github-readme-stats.vercel.app/api?username=THEgrison&theme=dark&show_icons=true&hide_border=true&count_private=true" alt="THEgrison's GitHub Stats" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=THEgrison&theme=dark&show_icons=true&hide_border=true&layout=compact" alt="THEgrison's GitHub Stats" />
+<img src="https://streak-stats.demolab.com?user=THEgrison&theme=dark&hide_border=true" alt="THEgrison's GitHub Stats" />
