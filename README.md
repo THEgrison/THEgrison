@@ -43,7 +43,7 @@
     <img src="https://streak-stats.demolab.com?user=THEgrison&theme=dark&hide_border=true" alt="THEgrison's GitHub Stats" />
   </td>
   </table>
-  <tr align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=THEgrison&theme=dark&show_icons=true&hide_border=true&layout=compact" alt="THEgrison's GitHub Stats" />
+  <tr>
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=THEgrison&theme=dark&show_icons=true&hide_border=true&layout=compact" alt="THEgrison's GitHub Stats" />
   </tr>
 </table>
