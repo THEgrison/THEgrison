@@ -35,13 +35,15 @@
 
 ## 📈 GitHub Stats :
 <table border="0">
+  <table>
   <td>
     <img src="https://github-readme-stats.vercel.app/api?username=THEgrison&theme=dark&show_icons=true&hide_border=true&count_private=true" alt="THEgrison's GitHub Stats" />
   </td>
   <td>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=THEgrison&theme=dark&show_icons=true&hide_border=true&layout=compact" alt="THEgrison's GitHub Stats" />
-  </td>
-  <td>
     <img src="https://streak-stats.demolab.com?user=THEgrison&theme=dark&hide_border=true" alt="THEgrison's GitHub Stats" />
   </td>
+  </table>
+  <tr>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=THEgrison&theme=dark&show_icons=true&hide_border=true&layout=compact" alt="THEgrison's GitHub Stats" />
+  </tr>
 </table>
