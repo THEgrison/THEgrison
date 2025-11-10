@@ -34,7 +34,7 @@
 </div>
 
 ## 📈 GitHub Stats :
-<table border="0" width="50%">
+<table border="0">
   <td>
     <img src="https://github-readme-stats.vercel.app/api?username=THEgrison&theme=dark&show_icons=true&hide_border=true&count_private=true" alt="THEgrison's GitHub Stats" />
   </td>
