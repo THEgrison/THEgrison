@@ -48,7 +48,6 @@ skills_i_learn = {
     "🔐 Security": ["OSINT", "Web Pentesting", "Reconnaissance"],
     "💻 Languages": ["Python", "Bash", "HTML", "JavaScript"],
     "🧰 Tools": ["Burp Suite", "Metasploit", "Nmap", "Wireshark"],
-    "📚 Learning": ["Post Exploitation", "Reverse Engineering"]
 }
 ```
 
