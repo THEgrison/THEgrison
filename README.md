@@ -37,8 +37,6 @@
 └────────────────────────────────────────────────────┘
 ```
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Ethical+Hacker+in+training...;Always+learning%2C+always+curious;Hack+the+planet+%F0%9F%8C%90)](https://git.io/typing-svg)
-
 </div>
 
 ---
