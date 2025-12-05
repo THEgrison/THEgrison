@@ -14,36 +14,84 @@
         \      `-.__,-'    _,'
          `._    ,    /__,-'
             ""._\__,'< <____
-                 | |  `----.`.                                                                  
-                 | |        \ `.                                                                
-                 ; |___      \-``                                                               
-                 \   --<                                                                        
-                  `.`.<                                                                         
-                    `-'                                                                         
-                                                      
+                 | |  `----.`.
+                 | |        \ `.
+                 ; |___      \-``
+                 \   --<
+                  `.`.<
+                    `-'
 ```
 
+<div align="center">
 
-<div align="center" color="red">
-    <h3>Welcome to my GitHub! I'm passionate about cybersecurity, ethical hacking, pentesting...</h3>
-    <p>🔭 Currently Working On nothing
-    <p>🌱 Learning: Osint, Python, Bash, Html... & Web Pentesting
-    <p>👯 Collaborating: Nop not for the moment
+### 👋 Bienvenue sur mon GitHub !
+
+**Passionné par la cybersécurité, l'ethical hacking et le pentesting**
+
+```ascii
+┌─────────────────────────────────────────────┐
+│  🔭 En ce moment    › Exploration & apprentissage │
+│  🌱 J'apprends      › OSINT • Python • Bash • Web  │
+│  🎯 Focus           › Web Pentesting               │
+│  💡 Objectif        › Red Team & Bug Bounty        │
+└─────────────────────────────────────────────┘
+```
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Ethical+Hacker+in+training...;Always+learning%2C+always+curious;Hack+the+planet+%F0%9F%8C%90)](https://git.io/typing-svg)
+
 </div>
 
+---
+
+### 🛠️ Stack & Tools
+
+```python
+skills = {
+    "🔐 Security": ["OSINT", "Web Pentesting", "Reconnaissance"],
+    "💻 Languages": ["Python", "Bash", "HTML", "JavaScript"],
+    "🧰 Tools": ["Burp Suite", "Metasploit", "Nmap", "Wireshark"],
+    "📚 Learning": ["Binary Exploitation", "Reverse Engineering"]
+}
+```
+
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Kali](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
+
 </div>
 
-## 📈 GitHub Stats :
-<table border="0" align="center">
-  <table>
-  <td>
-    <img src="https://github-readme-stats.vercel.app/api?username=THEgrison&theme=dark&show_icons=true&hide_border=true&count_private=true" alt="THEgrison's GitHub Stats" />
-  </td>
-  <td>
-    <img src="https://streak-stats.demolab.com?user=THEgrison&theme=dark&hide_border=true" alt="THEgrison's GitHub Stats" />
-  </td>
-  </table>
-  <tr>
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=THEgrison&theme=dark&show_icons=true&hide_border=true&layout=compact" alt="THEgrison's GitHub Stats" />
-  </tr>
-</table>
+---
+
+### 📈 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=THEgrison&theme=chartreuse-dark&show_icons=true&hide_border=true&count_private=true&bg_color=0d1117&title_color=00ff00&icon_color=00ff00&text_color=c9d1d9" alt="THEgrison's Stats" width="49%" />
+<img src="https://streak-stats.demolab.com?user=THEgrison&theme=chartreuse-dark&hide_border=true&background=0d1117&ring=00ff00&fire=00ff00&currStreakLabel=00ff00" alt="THEgrison's Streak" width="49%" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=THEgrison&theme=chartreuse-dark&show_icons=true&hide_border=true&layout=compact&bg_color=0d1117&title_color=00ff00&text_color=c9d1d9" alt="Top Languages" width="49%" />
+
+</div>
+
+---
+
+<div align="center">
+
+### 🎯 Capture The Flag & Challenges
+
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com)
+[![HackTheBox](https://img.shields.io/badge/HackTheBox-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black)](https://hackthebox.com)
+[![Root-Me](https://img.shields.io/badge/Root--Me-000000?style=for-the-badge&logo=root-me&logoColor=white)](https://root-me.org)
+
+---
+
+**💬 "The best way to predict the future is to invent it."**
+
+*Toujours curieux, toujours en apprentissage* 🦆
+
+![Profile Views](https://komarev.com/ghpvc/?username=THEgrison&color=00ff00&style=flat-square)
+
+</div>
