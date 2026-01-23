@@ -17,35 +17,12 @@
 
 ---
 
-### 🛠️ Stack & Tools
-
-```python
-skills_i_learn = {
-    "🔐 Security": ["OSINT", "Web Pentesting", "Reconnaissance"],
-    "💻 Languages": ["Python", "Bash", "HTML", "JavaScript"],
-    "🧰 Tools": ["Burp Suite", "Metasploit", "Nmap", "Wireshark"],
-}
-```
-
 <div align="center">
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Kali](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
-
-</div>
-
----
-
-### 📈 GitHub Stats
-
-<div align="center">
-
-<img src="" alt="THEgrison's Stats" width="49%" />
-<img src="https://streak-stats.demolab.com?user=THEgrison&theme=chartreuse-dark&hide_border=true&background=0d1117&ring=00ff00&fire=00ff00&currStreakLabel=00ff00" alt="THEgrison's Streak" width="49%" />
-
-<img src="" alt="Top Languages" width="49%" />
 
 </div>
 
