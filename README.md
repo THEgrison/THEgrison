@@ -2,7 +2,7 @@
 
 ### 👋 Bienvenue sur mon GitHub !
 
-**Passionné par la cybersécurité, l'ethical hacking et le pentesting**
+**Passionné par la cybersécurité et le pentesting**
 
 ```ascii
 ┌────────────────────────────────────────────────────┐
